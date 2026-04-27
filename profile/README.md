@@ -1,16 +1,15 @@
 # Easting Solutions
 
-**Web | Games | 3D | AI**
+**Web | Games | 3D**
 
-Welcome! We build cutting-edge digital experiences, from sleek static sites to handy admin panels, data backends, and (serious) games. Our expertise lies in pushing the boundaries with the latest technology, including AI and immersive 3D experiences. But we also love implementing tried and tested software that can stand the test of time. 
+Welcome! We build cutting-edge digital experiences, from handy admin panels, to serious games and interactive 3D. 
 
 ## Our Approach
 
-We believe in solutions, not just software. Our Agile methodology prioritizes collaboration and adaptability, ensuring we create products that perfectly meet your needs. We listen, iterate, and deliver.
+We believe in solutions, not just software. We use an Agile approach to ensure we create something that perfectly suits your needs.
 
 ## What We Do
 - Web Development (Static & Dynamic Sites, Admin Panels, APIs)
-- AI Integration & Automation
 - 3D & Interactive Experiences
 - (Serious) Games 
 
